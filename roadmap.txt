@@ -1,0 +1,9 @@
+OCR Information Extractor
+
+Routes->
+
+1. user uplooad images
+        /user_image : POST - upload Aadharcard images
+
+2.User Profile:
+        /profile: GET- Get the user's profile information see his aadhar card No, name & age as JSON .
